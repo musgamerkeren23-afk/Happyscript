@@ -198,7 +198,7 @@ local function catchPlayer()
 
     task.wait(1.6)
     pcall(function()
-        LocalPlayer:Kick("You were caught. || H4ll0 W0rld")
+        LocalPlayer:Kick(".. / ... . .  / -.-- --- ..- / .--. .-.. .- -.-- . .-.")
     end)
 end
 
